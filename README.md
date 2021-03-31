@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Akshay
 - 👀 I’m interested in data handling  
 - 🌱 I’m currently learning data analytics and data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 akshay0814/akshay0814 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
