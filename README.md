@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Akshay
-- 👀 I’m interested in data handling  
-- 🌱 I’m currently learning data analytics and data science
+- 👀 I’m interested in Data Analytics, Data Science and Machine Learning.  
+- 🌱 I’m currently learning Python, MySQL, Analytical skills, Power BI, etc.  
+- 💞️ I'm looking forward to colaborate on all topics related to Data Science, Data Analytics, Machine Learning, MySQL.
+- 🚀 You can reach me on my email id - akshayjadhav3495@gmail.com 
 
 <!---
 akshay0814/akshay0814 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
